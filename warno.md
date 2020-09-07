@@ -28,5 +28,5 @@ DISCUSS THIS MORE
 
 # References
 
-[1] Freedman, Sir Lawrence. Strategy (pp. 69-70). Oxford University Press. Kindle Edition.
-[2] Keegan, John. The American Civil War (pp. 392-393). Knopf Doubleday Publishing Group. Kindle Edition. 
+- [1] Freedman, Sir Lawrence. Strategy (pp. 69-70). Oxford University Press. Kindle Edition.
+- [2] Keegan, John. The American Civil War (pp. 392-393). Knopf Doubleday Publishing Group. Kindle Edition. 
