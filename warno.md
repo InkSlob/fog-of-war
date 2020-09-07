@@ -6,6 +6,9 @@ BPT tie together all information, actions, and resources to create a picture of 
 
 To provide a framework that gives Executive Leadership "La stratégique" wrt cybersecurity, the art of the commander, to wield and employ appropriately and with adroitness all the means of the Executive Leader in his hand, to move all the parts that are subordinate to him, and to apply them successfully.  This framework needs to be a unified theory, raising tactics to “the science of all times, all places and all arms.” [1].
 
+# Current Condition of Cyber Operations
+
+The vast majority of organizations rely on cyber to conduct operations and store sensitve data, but approach cybersecurity as a burden that they will fully address when the time comes.  This leads to cyber attacks that catch the organization by surprise which delays appropriate responses that have not been rehearsed and appropriate resources are not available in the timeframe required.  Making action even more difficult is the fact that organizations do not have internal cybersecurity capability and must find and hire conslultants at the time of attack.
 
 # Background
 
