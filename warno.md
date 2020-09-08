@@ -14,6 +14,13 @@ The vast majority of organizations rely on cyber to conduct operations and store
 
 Technology has changed the way we fight and those that master the new technologies get the edge in the battlespace.  
 
+Why is it so hard?
+
+>Everything in war is simple, but the simplest thing is difficult. The difficulties accumulate and end by producing a kind of friction that is inconceivable unless one has experienced war … Countless minor incidents—the kind you can never really foresee—combine to lower the general level of performance, so that one always falls short of the intended goal. 
+
+>Friction is the only conception which in a general way corresponds to that which distinguishes real War from War on paper. The military machine, the Army and all belonging to it, is in fact simple, and appears on this account easy to manage. But let us reflect that no part of it is in one piece, that it is composed entirely of individuals, each of which keeps up its own friction in all directions. Theoretically all sounds very well: the commander of a battalion is responsible for the execution of the order given; and as the battalion by its discipline is glued together into one piece, and the chief must be a man of acknowledged zeal, the beam turns on an iron pin with little friction. But it is not so in reality, and all that is exaggerated and false in such a conception manifests itself at once in War. The battalion always remains composed of a number of men, of whom, if chance so wills, the most insignificant is able to occasion delay and even irregularity. The danger which War brings with it, the bodily exertions which it requires, augment this evil so much that they may be regarded as the greatest causes of it.
+
+
 DISCUSS THIS MORE
 
 ## French Revolution
@@ -33,3 +40,4 @@ DISCUSS THIS MORE
 
 - [1] Freedman, Sir Lawrence. Strategy (pp. 69-70). Oxford University Press. Kindle Edition.
 - [2] Keegan, John. The American Civil War (pp. 392-393). Knopf Doubleday Publishing Group. Kindle Edition. 
+- [3] Tzu, Sun. Strategy Six Pack (Illustrated): The Art of War, The Gallic Wars, Life of Charlemagne, The Prince, On War and Battle Studies (p. 515). The War Vault. Kindle Edition. 
