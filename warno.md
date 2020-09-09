@@ -6,6 +6,22 @@ BPT tie together all information, actions, and resources to create a picture of 
 
 To provide a framework that gives Executive Leadership "La stratégique" wrt cybersecurity, the art of the commander, to wield and employ appropriately and with adroitness all the means of the Executive Leader in his hand, to move all the parts that are subordinate to him, and to apply them successfully.  This framework needs to be a unified theory, raising tactics to “the science of all times, all places and all arms.” [1].
 
+## The Service
+
+The service should bestow the leader with the ability to master the essentials.  It should incorporate into the organizational structure so that the leader knows which matters require their attention and which could be delegated to subordinates. Streamline using experts without being intimidated by them. The lines of authority must be clear.  The service must bring people from a variety of backgrounds together and forge them into a successful team [4].
+
+## The Essentials
+
+For a successful response to an event or attack the organization must have the following components.
+
+1. Identifcation Capability - be able to identify what is occuring.
+2. Course of Action - be able to map a Course of Action to an attack that has been Identified.
+3. Allocation of Resources - to execute a Course of Action with the needed resources - proper people, proper equipment, readily available money, and proper amount of time.
+4. Authority to Act - for one to execute a Course of Action they will need the Authority to Allocate Resources and Authority to fully execute the Course of Action.  The "Commanders Intent & Constraints" must be clearly communicated beforehand and understood.
+
+These four components are the eseentials needed to biuld a response capability.  This will ensure that the organization has the ability to manuever and meet the enemey.
+ 
+
 # Current Condition of Cyber Operations
 
 The vast majority of organizations rely on cyber to conduct operations and store sensitve data, but approach cybersecurity as a burden that they will fully address when the time comes.  This leads to cyber attacks that catch the organization by surprise which delays appropriate responses that have not been rehearsed and appropriate resources are not available in the timeframe required.  Making action even more difficult is the fact that organizations do not have internal cybersecurity capability and must find and hire conslultants at the time of attack.
@@ -35,9 +51,21 @@ DISCUSS THIS MORE
 > Grant was the greatest general of the war, one who would have excelled at any time in any army. He understood the war in its entirety and quickly grasped how modern methods of communication, particularly the telegraph and the railroads, had endowed the commander with the power to collect information more quickly and the means to disseminate appropriate orders in response. [2]
 
 
+# The Web 
+
+To be a "hard target" and maintain situational awareness of an organization's geopolitical position a diverse team will be required.  This team of experts are best available through a concierge service that places the right people at the right time.  The service providing firm will have a wide web of supporting entities they will use to assist organizations.  These services could include.
+
+* Computer specialists experienced with the vulnerabilities of your company.
+* Strategists and Statespeople experienced in determining geopolitical threats and potential allies.
+* Physical security specialists for protection, extraction, and establishing command and control.
+* Intelligence assets
+* Unique legal representation
+* Hackers
+* Unique and specific data
 
 # References
 
 - [1] Freedman, Sir Lawrence. Strategy (pp. 69-70). Oxford University Press. Kindle Edition.
 - [2] Keegan, John. The American Civil War (pp. 392-393). Knopf Doubleday Publishing Group. Kindle Edition. 
 - [3] Tzu, Sun. Strategy Six Pack (Illustrated): The Art of War, The Gallic Wars, Life of Charlemagne, The Prince, On War and Battle Studies (p. 515). The War Vault. Kindle Edition. 
+- [4] Smith, Jean Edward. Eisenhower in War and Peace (p. 780). Random House Publishing Group. Kindle Edition.
