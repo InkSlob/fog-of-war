@@ -14,6 +14,16 @@ An example of a working ACH is:
 
 ## Fog of War Competing Hypotheses
 
+### Questions
+
+| Question No. | Question |
+| --- | --- |
+| 1 | Security in the cloud is unorganized and individual based something needs to be created that allows organizations to incorporate valid security into their operations |
+| 2 | Does the cloud always provide the best security or are there instances when you need to take it upon yourself |
+| 3 | For a solution to be successful it must approach a problem in a unique way and be underpinned by a more robust algorithm or mathematical basis | 
+| 4 | What is security in the cloud | 
+
+
 ### Hypotheses
 
 | Hypothesis No. | Hypothesis |
