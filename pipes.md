@@ -58,3 +58,5 @@ We will develop an opinionated, serverless, secure-ops focused CI/CD capability,
 6. Security in CI and in CD components
 7. Deployment templates (e.g. blue/green lambda app)
 8. Documentation with extensive how-to (assume copy/paste)
+9. IDE
+10. Developer end-to-end experience (from login, to code edit, to deployment, to troubleshooting)
